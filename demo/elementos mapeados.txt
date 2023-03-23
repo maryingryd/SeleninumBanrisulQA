@@ -1,0 +1,30 @@
+Elemento para validação da página de login
+
+Texto do logo
+classname = login_logo
+
+Campo username
+id="user-name"
+
+Campo senha
+id="password"
+
+Botão login
+id="login-button"
+////////////////////////////
+
+>>>>> Elemento para validacao add ao carrinho <<<<<<<
+
+Clicar no nome do produto
+Link do produto
+id="item_4_title_link"
+
+Adionar ao carrinho
+Botão Add to cart
+id="add-to-cart-sauce-labs-backpack"
+
+Carrinho
+Botão carrinho
+class="shopping_cart_link"
+
+generico
