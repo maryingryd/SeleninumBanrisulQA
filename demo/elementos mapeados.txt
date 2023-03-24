@@ -27,4 +27,36 @@ Carrinho
 Botão carrinho
 class="shopping_cart_link"
 
-generico
+////////////////////////////////
+
+Tela de checkout
+
+Botão de Remover 
+id="remove-sauce-labs-backpack"
+
+Carrinho checkout
+id="checkout"
+
+Botão Continue Shopping
+id="continue-shopping"
+
+------------------------
+Checkout: Your Information
+
+First Name
+id="first-name"
+
+Last Name
+id="last-name"
+
+Postal Code
+id="postal-code"
+
+Botão Continue
+id="continue"
+
+I
+
+
+
+
